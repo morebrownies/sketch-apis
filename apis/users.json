@@ -32,7 +32,7 @@
   "about": "<div style=\"overflow-x: scroll;width:100%;\"><p><span><strong>Always online! &nbsp; - &nbsp; Shop 24/7 open!</strong></span></p><p><strong>english:</strong><span> if you have any questions, I'll answer monday - friday</span><br></p><p><strong>Deutsch:</strong> Eure Fragen beantworten wir gerne, Montag - Freitag<br></p><p><strong>ไทย &nbsp;</strong><span>เรายินดีที่จะตอบคำถามของคุณวันจันทร์ - วันศุกร์<br></span></p><p><span>retail - wholesale - manufacturers</span><span><br></span></p><p>We are in Bangkok.... with our Brands:<span>&nbsp;Meow Meow, x-dolls and Chatupets</span><img src=\"https://petstarsell.com/____impro/1/index-Dateien/Image001.jpg?etag=%2260b41-57a9abac%22&amp;sourceContentType=image%2Fjpeg&amp;ignoreAspectRatio&amp;resize=1000%2B968&amp;quality=85\" alt=\"Pets Dogs Cats Wild Animals\"></p><p>- shipping worldwide</p><p><span>- have over 1000 different items dogs, cats, pets, wild animals.... coming soon</span><br></p><p>- we accept:&nbsp;<span>other cryptocurrency by arrangement</span></p><br><br><p>- Wholesale price: prices for resellers on request!<span><span><br></span></span></p><p>- Die Preise für Großhändler teilen wir gerne auf Anfrage mit.</p><br><span><br></span><p><span>best regards from sunny thailand</span><br></p><p>the team from</p><p>PETSTARSELL.com<br></p><p>info@petstarsell.com</p><p>petstarsell@gmail.com</p></div>",
   "avatar": "https://gateway.ob1.io/ob/images/zb2rhjxXBc6qtenBkLxawDq1pXd4EodKag1sTzfRZFZGJwf1w",
   "coverPhoto": "https://gateway.ob1.io/ob/images/zb2rhhFrSAaqkfZWLP7VrroV7ye9s9hi4sZWMXKyXfNNE6VXN",
-  "nsfw": true,
+  "nsfw": false,
   "vendor": true,
   "moderator": false,
   "contactInfo": {
@@ -44,6 +44,30 @@
     "followerCount": 59,
     "followingCount": 293,
     "listingCount": 167,
+    "ratingCount": 0,
+    "averageRating": 0
+  }
+},
+{
+  "peerID": "QmTmCkNLUcPGvf3mSYDme4UQudgn9oCVqE13GHnrF6sjLj",
+  "handle": "",
+  "name": "LickyGiraffe's D&D Store",
+  "location": "Internet",
+  "shortDescription": "A multitude of Digital D&D Goods",
+  "about": "<p>I've been a Dungeon Master for a few years now, starting in 4th Edition before coming to 5th Edition. This store will offer up a variety of different items designed to assist/inspire my fellow DMs! For now I'll keep it simple but may expand to include the following items based on demand!</p><p>- Monster/NPC Stat Blocks</p><p>- Magic Items</p><p>- Standalone Encounters</p><p>- Maps I've created (built using Hexographer)</p><p>- Writeups of Adventures I've run</p><br><p>I'm also happy to consider custom requests!</p><br><p>Content will be delivered by messaging of a link</p><p>All donations welcome -&nbsp;bitcoincash:qz6sjlnl9z0lxdkzau8027ahtzt95sglfuyvlj05a5</p><p>My content is licensed using the MIT License so use/modify it any way you want but please do not claim that you made it yourself, thanks!</p>",
+  "avatar": "https://gateway.ob1.io/ob/images/zb2rhcRtdc8y6FHK9HgiLtL2XBfCkXSNDFHWnA6xaBX4TkKW6",
+  "coverPhoto": "https://gateway.ob1.io/ob/images/zb2rhixJG27Chzxkj63Cf4cw3SRJqmDzppRXMnUC27UBPZTqh",
+  "nsfw": false,
+  "vendor": true,
+  "moderator": false,
+  "contactInfo": {
+    "website": "n/a",
+    "email": "n/a"
+  },
+  "stats": {
+    "followerCount": 79,
+    "followingCount": 75,
+    "listingCount": 40,
     "ratingCount": 0,
     "averageRating": 0
   }
