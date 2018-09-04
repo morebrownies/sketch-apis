@@ -2,7 +2,7 @@
   "peerID": "Qmd9hFFuueFrSR7YwUuAfirXXJ7ANZAMc5sx4HFxn7mPkc",
   "handle": "",
   "name": "Casa",
-  "location": "Brisbane",
+  "location": "Earth",
   "shortDescription": "Casa is the best personal key system on the planet. We help you control your own private keys.",
   "about": "Casa protects your savings against theft, natural disasters, accidents, and more with our multi-signature, multi-device, multi-location approach. Learn more at https://keys.casa/",
   "avatar": "https://gateway.ob1.io/ob/images/zb2rhZMq8oe6KqxNet4fb2DzzjrK1fAdacAFLtA4xK92Ydata",
@@ -19,6 +19,31 @@
     "followerCount": 12,
     "followingCount": 1,
     "listingCount": 3,
+    "ratingCount": 0,
+    "averageRating": 0
+  }
+},
+{
+  "peerID": "QmTiyLne8hCzAJVJzADposCQs8w7UqosvC9sK1wqtgmD5d",
+  "handle": "",
+  "name": "Petstarsell Happy Chatupets Cats Dogs 3D",
+  "location": "worldwide shipping",
+  "shortDescription": "Animal face - Pets Cats Dogs - 3D Print Fashion News - Coin Purse - Chains Bags - Big Shopper Bag - Large Pillow The Original Happy Chatupets - Best Quality",
+  "about": "<div style=\"overflow-x: scroll;width:100%;\"><p><span><strong>Always online! &nbsp; - &nbsp; Shop 24/7 open!</strong></span></p><p><strong>english:</strong><span> if you have any questions, I'll answer monday - friday</span><br></p><p><strong>Deutsch:</strong> Eure Fragen beantworten wir gerne, Montag - Freitag<br></p><p><strong>ไทย &nbsp;</strong><span>เรายินดีที่จะตอบคำถามของคุณวันจันทร์ - วันศุกร์<br></span></p><p><span>retail - wholesale - manufacturers</span><span><br></span></p><p>We are in Bangkok.... with our Brands:<span>&nbsp;Meow Meow, x-dolls and Chatupets</span><img src=\"https://petstarsell.com/____impro/1/index-Dateien/Image001.jpg?etag=%2260b41-57a9abac%22&amp;sourceContentType=image%2Fjpeg&amp;ignoreAspectRatio&amp;resize=1000%2B968&amp;quality=85\" alt=\"Pets Dogs Cats Wild Animals\"></p><p>- shipping worldwide</p><p><span>- have over 1000 different items dogs, cats, pets, wild animals.... coming soon</span><br></p><p>- we accept:&nbsp;<span>other cryptocurrency by arrangement</span></p><br><br><p>- Wholesale price: prices for resellers on request!<span><span><br></span></span></p><p>- Die Preise für Großhändler teilen wir gerne auf Anfrage mit.</p><br><span><br></span><p><span>best regards from sunny thailand</span><br></p><p>the team from</p><p>PETSTARSELL.com<br></p><p>info@petstarsell.com</p><p>petstarsell@gmail.com</p></div>",
+  "avatar": "https://gateway.ob1.io/ob/images/zb2rhjxXBc6qtenBkLxawDq1pXd4EodKag1sTzfRZFZGJwf1w",
+  "coverPhoto": "https://gateway.ob1.io/ob/images/zb2rhhFrSAaqkfZWLP7VrroV7ye9s9hi4sZWMXKyXfNNE6VXN",
+  "nsfw": true,
+  "vendor": true,
+  "moderator": false,
+  "contactInfo": {
+    "website": "https://petstarsell.com/",
+    "email": "info@petstarsell.com",
+    "facebook": "https://de-de.facebook.com/Petstarsell/"
+  },
+  "stats": {
+    "followerCount": 59,
+    "followingCount": 293,
+    "listingCount": 167,
     "ratingCount": 0,
     "averageRating": 0
   }
