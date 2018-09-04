@@ -1,0 +1,25 @@
+{
+  "peerID": "Qmd9hFFuueFrSR7YwUuAfirXXJ7ANZAMc5sx4HFxn7mPkc",
+  "handle": "",
+  "name": "Casa",
+  "location": "Brisbane",
+  "shortDescription": "Casa is the best personal key system on the planet. We help you control your own private keys.",
+  "about": "Casa protects your savings against theft, natural disasters, accidents, and more with our multi-signature, multi-device, multi-location approach. Learn more at https://keys.casa/",
+  "avatar": "https://gateway.ob1.io/ob/images/zb2rhZMq8oe6KqxNet4fb2DzzjrK1fAdacAFLtA4xK92Ydata",
+  "coverPhoto": "https://gateway.ob1.io/ob/images/zb2rhdqmt4Cbv8MCWTJs7NdyLDBvMwLLEcjcDzYcykxUkBXeP",
+  "nsfw": true,
+  "vendor": true,
+  "moderator": false,
+  "contactInfo": {
+    "website": "https://keys.casa/",
+    "email": "store@team.casa",
+    "twitter": "@CasaHODL"
+  },
+  "stats": {
+    "followerCount": 12,
+    "followingCount": 1,
+    "listingCount": 3,
+    "ratingCount": 0,
+    "averageRating": 0
+  }
+}
