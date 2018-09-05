@@ -112,4 +112,47 @@
     "ratingCount": "15",
     "averageRating": "5.0"
   }
+},
+{
+  "peerID": "Qmasfk23sn9gTxjrwD5t6DPwq4CMcy7vzPto8rvPFnZVjC",
+  "handle": "",
+  "name": "BTC-Exchange",
+  "location": "exchange.buyands.com",
+  "shortDescription": "You can buy multiple cryptocurrencies here with Bitcoin easily.",
+  "about": "Thanks for visiting us. You can buy multiple cryptocurrencies here with Bitcoin easily. We can exchange almost any cryptocurrency to any other. Please \"Contact Us\" for this purpose. Please ask us if you have any questions without any hesitation. If you want to exchange with Bitcoin-Cash than please visit our other store via link below. BCH Store Link: ob://QmRZXnJoPgmAqoAz5MVzKZRJ3uRH2qMCyPRNrUYrA52s21",
+  "avatar": "https://gateway.ob1.io/ob/images/zb2rhYJPyzEytqNfKpsrebPgw9zGm6FUp52RCPGQ3CiQLmw1Z",
+  "coverPhoto": "https://gateway.ob1.io/ob/images/zb2rhkKPQaHGTYLq41B1spvRR3HYaHyUgaSzkaauiA3KvXeHM",
+  "contactInfo": {
+    "website": "https://exchange.buyands.com/",
+    "email": "obexchanges@gmail.com"
+  },
+  "stats": {
+    "rating": "5.0 (1)",
+    "followerCount": "22",
+    "followingCount": "89",
+    "listingCount": "54",
+    "ratingCount": "1",
+    "averageRating": "5.0"
+  }
+},
+{
+  "peerID": "QmaUm8T2be5XEJufsS74j8bX9unNEhymHukJ6X9Tn6N8SK",
+  "handle": "",
+  "name": "Mutts and Meows Too",
+  "location": "USA",
+  "shortDescription": "n/a",
+  "about": "n/a",
+  "avatar": "https://gateway.ob1.io/ob/images/zb2rhXe25FERk76QD2X5nUahxKGcZUqaeJ6xjWfAATxvfz8Df",
+  "coverPhoto": "https://gateway.ob1.io/ob/images/zb2rheXpqVwYeyNPe3jUYnDNNwjfMubyfCaxZMGZiP2g43pZi",
+  "contactInfo": {
+    "website": "http://www.muttsandmeowstoo.com"
+  },
+  "stats": {
+    "rating": "0.0 (0)",
+    "followerCount": "15",
+    "followingCount": "4",
+    "listingCount": "74",
+    "ratingCount": "0",
+    "averageRating": "0.0"
+  }
 }]
