@@ -1,4 +1,26 @@
 [{
+  "peerID": "QmaUm8T2be5XEJufsS74j8bX9unNEhymHukJ6X9Tn6N8SK",
+  "handle": "",
+  "name": "Urban Art",
+  "location": "Seattle, WA",
+  "shortDescription": "We sell all types of art from urban areas around the world. Check out our daily rotation of featured artists and featured pieces from unique destinations.",
+  "about": "We sell all types of art from urban areas around the world. Check out our daily rotation of featured artists and featured pieces from unique destinations.",
+  "avatar": "https://i.imgur.com/knfGPPP.png",
+  "coverPhoto": "https://imgur.com/fh5yBkb.png",
+  "contactInfo": {
+    "website": "https://www.urbanart.com",
+    "email": "hey@urbanart.com"
+  },
+  "stats": {
+    "rating": "4.7 (273)",
+    "followerCount": "372",
+    "followingCount": "84",
+    "listingCount": "823",
+    "ratingCount": "273",
+    "averageRating": "4.7"
+  }
+},
+{
   "peerID": "Qmd9hFFuueFrSR7YwUuAfirXXJ7ANZAMc5sx4HFxn7mPkc",
   "handle": "",
   "name": "Casa",
@@ -145,7 +167,8 @@
   "avatar": "https://gateway.ob1.io/ob/images/zb2rhXe25FERk76QD2X5nUahxKGcZUqaeJ6xjWfAATxvfz8Df",
   "coverPhoto": "https://gateway.ob1.io/ob/images/zb2rheXpqVwYeyNPe3jUYnDNNwjfMubyfCaxZMGZiP2g43pZi",
   "contactInfo": {
-    "website": "http://www.muttsandmeowstoo.com"
+    "website": "http://www.muttsandmeowstoo.com",
+    "email": "hey@urbanart.com"
   },
   "stats": {
     "rating": "0.0 (0)",
